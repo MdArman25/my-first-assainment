@@ -163,6 +163,7 @@ padding-left:150px;
 
 .main-hot{
 display: flex;
+margin: auto;
 text-align: center;
 text-align: center;
 border-radius: 8px;
@@ -194,4 +195,82 @@ background: #E55473;
 }
 .hot-img{
 padding-left: 50px;
+}
+
+
+
+.social-text{ padding-top: 100px;
+padding-left: 140px;
+
+text-align: center;
+}
+.style{
+    display: flex;
+width: 594px;
+flex-direction: column;
+padding-left: 220px;
+
+}
+
+
+.box{
+    width: 282px;
+    height: 246px;
+ padding-left: 200px;
+}
+
+
+.input-boxes{
+    border-radius: 8px;
+    background: url(../rectangle\ 9.png), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+    width: 1440px;
+    height: 449px;
+    text-align: center;padding-top: 100px;
+margin-top: 100px;
+background-repeat: no-repeat;
+gap: 20px;}
+
+.desription{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+padding-top: 30px;
+gap: 20px;
+}
+.email{
+    
+    width: 500px;
+height:44px;
+    border-radius: 8px;
+background: #FFF;
+}
+footer{
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+ 
+}
+.footer{
+    color: #E55473;
+font-size: 48px;
+font-weight: 800;
+line-height: normal;
+padding-left: 200px;
+
+}
+.styl{
+    display: flex;
+    width: 625px;
+    flex-direction: column;
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+
+}
+.fot{
+    padding: 400px;
 }
