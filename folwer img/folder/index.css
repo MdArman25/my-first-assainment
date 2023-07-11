@@ -1,5 +1,40 @@
+*{
+    margin: 0px ;
+    padding: 0px ;
+}
+body{
+    font-family:lato;
+}
+.main-cintainer{
+    display: flex;
+    background: rgba(136, 32, 55, 0.1);
+text-align: center;
+.left{
+    padding-left: 230px  ;
+    padding-top: 150px ;
+    
+}
+}
+.font{
+    width: 708px;
+flex-direction: column;
+}
+.img{display: flex;
+    width: 635px;
+    height: 800px;
+padding-top: 50px;
+padding-right: 230px;
+}
+.btn{ 
+    display:flex;
 
-
-.size{
-    size: 400px ;
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    padding:10px 20px ;
+/* align-items: flex-start; */
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
 }
