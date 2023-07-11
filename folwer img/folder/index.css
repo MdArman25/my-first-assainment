@@ -35,11 +35,8 @@ padding-right: 230px;
   
  font-weight:800px;
     width:208px; 
-} 
-
-
+}
 .btn{ 
-  
     color: #FFF;
     font-size: 20px;
     font-weight: 700;
@@ -48,10 +45,6 @@ padding-right: 230px;
     border-radius: 8px;
     background: #E55473;}
 
-
-.bonus-section{
-
-}
 .bonus-text{
     text-align: center;
     padding:100px 600px 10px 600px;
@@ -124,5 +117,56 @@ font-weight: 700;
 line-height: 20px;
 text-decoration-line: underline;
 padding-left:290px;
+
+}
+.icon-head{ 
+border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+margin: 120px 200px ;
+
+}
+.icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:120px;
+  padding-top: 50px;
+ 
+  
+
+}
+.icon-text{ display: flex;
+    color: rgba(39, 39, 39, 0.80);
+text-align: center;
+/* line-height: 35px; */
+gap: 40px ;
+padding: 100px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.main-hot{
+
+}
+.hot-text{
 
 }
