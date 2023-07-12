@@ -80,7 +80,7 @@ background: rgba(5, 151, 160, 0.15);
 .ed{
     border-radius: 250px 250px 0px 0px;
 background: rgba(71, 125, 17, 0.15);
-padding: 67px 75px 0px 75px;
+padding: 100px 75px 0px 75px;
 }
 .tree-head{
     display: flex;
@@ -151,16 +151,6 @@ padding-left:150px;
 }
 
 
-
-
-
-
-
-
-
-
-
-
 .main-hot{
 display: flex;
 margin: auto;
@@ -196,8 +186,6 @@ background: #E55473;
 .hot-img{
 padding-left: 50px;
 }
-
-
 
 .social-text{ padding-top: 100px;
 padding-left: 500px;
