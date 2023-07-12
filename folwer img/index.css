@@ -57,7 +57,7 @@ padding-right: 230px;
 width: 424px;
 
 }
-.box{ 
+.boxer{ 
     padding-top:20px ;
     padding-left: 150px;
     display: flex;
@@ -200,23 +200,27 @@ padding-left: 50px;
 
 
 .social-text{ padding-top: 100px;
-padding-left: 140px;
+padding-left: 500px;
+padding-bottom: 50px;
 
-text-align: center;
 }
 .style{
     display: flex;
-width: 594px;
+width: 494px;
 flex-direction: column;
-padding-left: 220px;
+
 
 }
 
-
-.box{
+.text-style{ display: flex;
+    padding-left: 100px;
+    font-weight: 800;
+    line-height:80px;
+}
+.box{ display: flex;
     width: 282px;
     height: 246px;
- padding-left: 200px;
+ padding-left: 250px;
 }
 
 
@@ -246,31 +250,43 @@ height:44px;
     border-radius: 8px;
 background: #FFF;
 }
-footer{
-    background-color: black;
+.last{
+    display: flex;
+    text-align: center;
     align-items: center;
-    justify-content: center;
- 
+    
 }
 .footer{
-    color: #E55473;
-font-size: 48px;
+    font-size: 48px;
 font-weight: 800;
-line-height: normal;
-padding-left: 200px;
 
+}
+.fot{ width: 100%;
+    height: 449px;
+  color: white;
+  background-color: black;
+  align-items: center;
+  text-align: center;
+  padding-top: 200px;
+  gap: 20px;
 }
 .styl{
     display: flex;
-    width: 625px;
-    flex-direction: column;
-    color: rgba(255, 255, 255, 0.90);
+width: 625px;
 text-align: center;
+align-items: center;
+padding-left: 150px;
+margin-left: 200px;
+color: rgba(255, 255, 255, 0.90);
+font-family: Lato;
 font-size: 18px;
 font-weight: 400;
 line-height: 30px;
-
 }
-.fot{
-    padding: 400px;
+.end{ line-height: 30px;
+    padding-left: 20px;
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-size: 16px;
+font-weight: 400;
 }
