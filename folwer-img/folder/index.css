@@ -226,7 +226,7 @@ flex-direction: column;
     width: 1140px;
     height: 449px;
     text-align: center;
-    margin: 0px 200px 150px 200px;
+    margin: 0px 200px 100px 200px;
 /* line-height: 30px; */
 align-items: center;
 justify-content: center;
@@ -256,6 +256,7 @@ background: #FFF;
     display: flex;
     text-align: center;
     align-items: center;
+
     
 }
 .footer{
